@@ -2,11 +2,8 @@
 <head>
 
 <h1 align="center">
+ <img height="100%" alt="an9nghostghost1" src="https://raw.githubusercontent.com/R4GN4R0K-SEC/Lulzddos/refs/heads/main/anonghost.gif">
 <p align="center">
-🔥💀🅰🅽🅾🅽🆈🅼🅾🆄🆂💀🔥<br>  
- ░█▀▀░█░█░█▀█░█▀▀░▀█▀<br>
- ░█░█░█▀█░█░█░▀▀█░░█░<br> 
- ░▀▀▀░▀░▀░▀▀▀░▀▀▀░░▀░<br>
  <a href="">
    <picture>
       <img height="100%" alt="lulzddos1" src="https://github.com/lulzddos/Lulzddos/assets/141240416/4adef1a1-ff6e-47f8-9453-1631c702e378">
@@ -14,15 +11,16 @@
   </a>
  </p>
 </h1>
-
-    - [x] Add auto download fresh socks5 after attack with method sky and slowloris
-    - [x] Add HTTP/2 (HTTPX) method
-    - [x] Add bypass method [STRONG ATTACK]
-    - [x] Add spoof method [STRONG ATTACK]
-    - [x] Change pxcfb to TSL1.3 Proxy Flood 
-    - [x] Add HULK - HTTP Unbearable Load King
-    - [x] Add pxHULK - proxy HTTP Unbearable Load King
-
+<h3>
+ <p><i>
+    - [x] Add auto download fresh socks5 after attack with method sky and slowloris <br>
+    - [x] Add HTTP/2 (HTTPX) method <br>
+    - [x] Add bypass method [STRONG ATTACK] <br>
+    - [x] Add spoof method [STRONG ATTACK] <br>  
+    - [x] Change pxcfb to TSL1.3 Proxy Flood <br>  
+    - [x] Add HULK - HTTP Unbearable Load King <br>
+    - [x] Add pxHULK - proxy HTTP Unbearable Load King </i><br>
+ </p>
 </head>
 
 <body>
@@ -33,36 +31,38 @@
    </Picture>
   </h2>
 
-  <h2> Methods 
- 
-   [Layer 7]
-   
-    - [x] spoof | STRONG ATTACK with spoof Header X-ForWard
-    - [x] http2 | HTTP/2 attack with proxy [httpx]
-    - [x] cfb   | Bypass CF attack
-    - [x] pxcfb | Bypass CF attack tsl1.3 with proxy [fixed work]
-    - [x] cfpro | Bypass CF UAM(Under Attack Mode), CAPTCHA, BFM(Bot Fight Mode) etc.. (request)
-    - [x] cfsoc | Bypass CF UAM(Under Attack Mode), CAPTCHA, BFM(Bot Fight Mode) etc.. (socket)
-    - [x] bypass| Bypass Google Project Shield, Vshield etc.. (socket)
-    - [x] raw   | Request Attack
-    - [x] post  | Post Request Attack
-    - [x] head  | Head Request Attack
-    - [x] soc   | Socket Attack
-    - [x] hulk  | HTTP Unbearable Load King
-    - [x] hulk  | proxy hulk HTTP Unbearable Load King
-    - [x] sky   | HTTPS Flood and bypass for CF NoSec, DDoS Guard Free and vShield (SOCKS5)
-    - [x]stellar| HTTPS Sky method without proxies
-    - [x] pxraw | Proxy Request Attack
-    - [x] pxsoc | Proxy Socket Attack
-    - [x] pxslow| slowloris Attack (SOCKS5)
- 
-  [Layer 4]
-   
-    - [x] udp | simple udp flood<br>
-    - [x] tcp | simple tcp syn flood <work fine ! >
-    - [x] vse | Send Valve Source Engine Protocol
-    - [x] mine| minecraft dos attack
-  
+<h2> Methods </h2>
+ [Layer 7]<br>
+   <p><i>
+    - [x] spoof | STRONG ATTACK with spoof Header X-ForWard<br>
+    <br>
+    - [x] http2 | HTTP/2 attack with proxy [httpx]<br>
+    <br>
+    - [x] cfb   | Bypass CF attack<br>
+    <br>
+    - [x] pxcfb | Bypass CF attack tsl1.3 with proxy [fixed work]<br>
+    - [x] cfpro | Bypass CF UAM(Under Attack Mode), CAPTCHA, BFM(Bot Fight Mode) etc.. (request)<br>
+    - [x] cfsoc | Bypass CF UAM(Under Attack Mode), CAPTCHA, BFM(Bot Fight Mode) etc.. (socket)<br>
+    - [x] bypass| Bypass Google Project Shield, Vshield etc.. (socket)<br>
+    - [x] raw   | Request Attack<br>
+    - [x] post  | Post Request Attack<br>
+    - [x] head  | Head Request Attack<br>
+    - [x] soc   | Socket Attack<br>
+    - [x] hulk  | HTTP Unbearable Load King<br>
+    - [x] hulk  | proxy hulk HTTP Unbearable Load King<br>
+    - [x] sky   | HTTPS Flood and bypass for CF NoSec, DDoS Guard Free and vShield (SOCKS5)<br>
+    - [x]stellar| HTTPS Sky method without proxies<br>
+    - [x] pxraw | Proxy Request Attack<br>
+    - [x] pxsoc | Proxy Socket Attack<br>
+    - [x] pxslow| slowloris Attack (SOCKS5) </i><br>
+   </p>
+ [Layer 4]
+  <p><i>
+    - [x] udp | simple udp flood <br>
+    - [x] tcp | simple tcp syn flood [work fine !] <br>
+    - [x] vse | Send Valve Source Engine Protocol <br>
+    - [x] mine| minecraft dos attack </i><br>
+    </p>
   [Tools]
  
     - [x] Dns        | Classic DNS Lookup
