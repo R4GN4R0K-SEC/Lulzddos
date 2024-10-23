@@ -11,7 +11,7 @@
   </a>
  </p>
 </h1>
-<h4>ℹ️ <i>INFORMATION<i>
+<h4>ℹ️ <i>INFO</i>
  <br>
 </h4>
  <h5>
@@ -39,7 +39,9 @@
   </h2>
 
  <h2> METHODS <br></h2>
+ 
   <h3>[Layer 7️⃣]</h3>
+  
   <h4>
     <p><i>
      - [x] spoof | STRONG ATTACK with spoof Header X-ForWard<br>
@@ -62,8 +64,9 @@
      - [x] pxslow| slowloris Attack (SOCKS5) </i><br>
    </p>
   </h4>
-  <h2>
+  
  <h3>[Layer 4️⃣]</h3>
+ 
   <h4>
    <p>
     <i>
@@ -74,8 +77,10 @@
    </i>
   </p>
  </h4>
+   
 <h2>🔧TOOLS🔨</h2>
- </h4>
+
+ <h4>
   <p>
    <i>
      - [x] Dns        | Classic DNS Lookup<br>
@@ -84,17 +89,22 @@
    </i>
   </p>
  </h4>
-<h2> 👨‍💻Usage⚡️</h2>
+ 
+<h2>👨‍💻USAGE⚡️</h2>
+
  <h4>
   <p>
    <i>
-     - DOWNLOAD:  
+  <strong>   - DOWNLOAD: </strong><br>  
      ▶️ git clone https://github.com/R4GN4R0K-SEC/Lulzddos.git <br>
-     - INSTALL:   4
-     ▶️- python setup.py install or python3 setup.py 
-     - WITH PIP:<br>
+    <br>
+  <strong>   - INSTALL: </strong><br>
+     ▶️ python setup.py install or python3 setup.py <br>
+    <br>
+    <strong> - WITH PIP:</strong><br>
      ▶️ pip3 install -r requirements.txt  or  pip install -r requirements.txt <br>
-     - NOTICE:    
+    <br> 
+   <strong>  - NOTICE: <strong><br>
      ℹ️ For bypass work need install lastest verion Chrome <br>
       ➡ wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb <br>
       ➡ apt-get install ./google-chrome-stable_current_amd64.deb <br>
@@ -105,12 +115,11 @@
  <h3> Contact Developer </h3>
    <p>
     <i>
-     🪙Buy Me a Coffee BTC:1JG2uZB9MBKhPKFMKJvF5VUBNaXfTa1aWv <br>
-     📲 discord : lulz7332 <br>
+     🪙 Buy Me a Coffee BTC:1JG2uZB9MBKhPKFMKJvF5VUBNaXfTa1aWv <br>
+     📲 Discord : lulz7332 <br>
     </i>
    </p>
   </h2>
  
  </body>
  
-</html>
