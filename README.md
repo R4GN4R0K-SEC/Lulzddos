@@ -1,5 +1,15 @@
-![image-24](https://github.com/lulzddos/Lulzddos/assets/141240416/4adef1a1-ff6e-47f8-9453-1631c702e378)
+<head>
+  <h1>
+    <p align="center">
+  🔥💀🅰🅽🅾🅽🆈🅼🅾🆄🆂💀🔥</br>
+   ░█▀▀░█░█░█▀█░█▀▀░▀█▀</br>
+   ░█░█░█▀█░█░█░▀▀█░░█░</br> 
+   ░▀▀▀░▀░▀░▀▀▀░▀▀▀░░▀░</br>
+    </p>
+  </h1>
+</head>
 
+![image-24](https://github.com/lulzddos/Lulzddos/assets/141240416/4adef1a1-ff6e-47f8-9453-1631c702e378)
 
 ```sh
 - [x] Add auto download fresh socks5 after attack with method sky and slowloris
