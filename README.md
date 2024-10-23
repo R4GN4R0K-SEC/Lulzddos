@@ -25,8 +25,9 @@
     - [x] Add HULK - HTTP Unbearable Load King <br>
     - [x] Add pxHULK - proxy HTTP Unbearable Load King <br>
    </i>
- </p>
-</h5>
+  </p>
+ </h5>
+ 
 </head>
 
 <body>
@@ -37,9 +38,9 @@
    </Picture>
   </h2>
 
-<h2> METHODS <br></h2>
- <h3>[Layer 7️⃣]</h3>
-   <h4>
+ <h2> METHODS <br></h2>
+  <h3>[Layer 7️⃣]</h3>
+  <h4>
     <p><i>
      - [x] spoof | STRONG ATTACK with spoof Header X-ForWard<br>
      - [x] http2 | HTTP/2 attack with proxy [httpx]<br>
@@ -73,7 +74,7 @@
    </i>
   </p>
  </h4>
- <h2>🔧TOOLS🔨</h2>
+<h2>🔧TOOLS🔨</h2>
  </h4>
   <p>
    <i>
@@ -83,7 +84,7 @@
    </i>
   </p>
  </h4>
- <h2> 👨‍💻Usage⚡️ </h2>
+<h2> 👨‍💻Usage⚡️</h2>
  <h4>
   <p>
    <i>
@@ -102,13 +103,14 @@
   </p>
  </h4>
  <h3> Contact Developer </h3>
-  <p>
-   <i>
+   <p>
+    <i>
      🪙Buy Me a Coffee BTC:1JG2uZB9MBKhPKFMKJvF5VUBNaXfTa1aWv <br>
      📲 discord : lulz7332 <br>
-   </i>
-  </p>
- </h2>
-
-</body>
+    </i>
+   </p>
+  </h2>
+ 
+ </body>
+ 
 </html>
