@@ -1,15 +1,19 @@
+<html>
 <head>
-  <h1>
-    <p align="center">
-  🔥💀🅰🅽🅾🅽🆈🅼🅾🆄🆂💀🔥</br>
-   ░█▀▀░█░█░█▀█░█▀▀░▀█▀</br>
-   ░█░█░█▀█░█░█░▀▀█░░█░</br> 
-   ░▀▀▀░▀░▀░▀▀▀░▀▀▀░░▀░</br>
-    </p>
-  </h1>
-</head>
 
-![image-24](https://github.com/lulzddos/Lulzddos/assets/141240416/4adef1a1-ff6e-47f8-9453-1631c702e378)
+<h1 align="center">
+<p align="center">
+🔥💀🅰🅽🅾🅽🆈🅼🅾🆄🆂💀🔥<br>  
+ ░█▀▀░█░█░█▀█░█▀▀░▀█▀<br>
+ ░█░█░█▀█░█░█░▀▀█░░█░<br> 
+ ░▀▀▀░▀░▀░▀▀▀░▀▀▀░░▀░<br>
+ <a href="">
+   <picture>
+      <img height="100%" alt="lulzddos1" src="https://github.com/lulzddos/Lulzddos/assets/141240416/4adef1a1-ff6e-47f8-9453-1631c702e378">
+    </picture>
+  </a>
+ </p>
+</h1>
 
 ```sh
 - [x] Add auto download fresh socks5 after attack with method sky and slowloris
@@ -20,12 +24,19 @@
 - [x] Add HULK - HTTP Unbearable Load King
 - [x] Add pxHULK - proxy HTTP Unbearable Load King
 ```
-  ## Menu
 
- ![IMG_20230802_225040](https://github.com/lulzddos/Lulzddos/assets/141240416/ae513a79-73b3-492a-bbda-3688d462e713)
+</head>
 
+<body>
+  
+  <h2> Menu
+   <Picture>
+    <img height="100%" alt="lulzddos2" src="https://github.com/lulzddos/Lulzddos/assets/141240416/ae513a79-73b3-492a-bbda-3688d462e713">
+   </Picture>
+  </h2>
 
-  ## Methods
+  <h2> Methods
+    
   ```sh
   [Layer 7]
  - [x] spoof | STRONG ATTACK with spoof Header X-ForWard
@@ -58,20 +69,28 @@
  - [x] Geoip      | Geo IP Address Lookup
  - [x] Subnet     | Subnet IP Address Lookup
  ```
- 
- ## Usage
-```sh
-DOWNLOAD:  git clone https://github.com/R4GN4R0K-SEC/Lulzddos.git
+ </h2>
+ <h2> Usage 
+   
+   ```sh
+DOWNLOAD:  git clone https://github.com/R4GN4R0K-SEC/Lulzddos.git<br>
 INSTALL: - python setup.py install or python3 setup.py install
          - with pip:
-           pip3 install -r requirements.txt  or  pip install -r requirements.txt
-NOTICE: For bypass work need install lastest verion Chrome
+           pip3 install -r requirements.txt  or  pip install -r requirements.txt <br>
+NOTICE: For bypass work need install lastest verion Chrome <br>
  - wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
  - apt-get install ./google-chrome-stable_current_amd64.deb
  Thread set 10-50 > work
 ```
-## Contact Developer
+<h2> Contact Developer
+  <i>
+    
 ```sh
 Buy Me a Coffee BTC:1JG2uZB9MBKhPKFMKJvF5VUBNaXfTa1aWv
 discord : lulz7332
 ```
+   </i>
+ </h2>
+ 
+</body>
+</html>
