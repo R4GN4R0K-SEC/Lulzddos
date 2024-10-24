@@ -70,8 +70,7 @@
     - [x] udp | simple udp flood <br>
     - [x] tcp | simple tcp syn flood [work fine !] <br>
     - [x] vse | Send Valve Source Engine Protocol <br>
-    - [x] mine| minecraft dos attack </i><br>
-   </i>
+    - [x] mine| minecraft dos attack </i><br> 
   </p>
  </h4>
  <h2>🔧TOOLS🔨</h2>
@@ -106,12 +105,13 @@
    </p>
   </h4>   
   <h3> Contact Developer </h3>
+  <h4>
    <p>
     <i>
-    🪙 Buy Me a Coffee BTC:1JG2uZB9MBKhPKFMKJvF5VUBNaXfTa1aWv <br>
-    📲 Discord : lulz7332 <br>
-    </i>
+      🪙 Buy Me a Coffee BTC:1JG2uZB9MBKhPKFMKJvF5VUBNaXfTa1aWv <br>
+      📲 Discord : lulz7332 </i><br>
    </p>
-  </h2> 
- </body>
+  </h4> 
+ 
+  </body>
 </html>
