@@ -74,9 +74,9 @@
      - [x] tcp | simple tcp syn flood [work fine !] <br>
      - [x] vse | Send Valve Source Engine Protocol <br>
      - [x] mine| minecraft dos attack </i><br>
-   </i>
-  </p>
- </h4>
+    </i>
+   </p>
+  </h4>
    
 <h2>🔧TOOLS🔨</h2>
 
@@ -101,18 +101,21 @@
   <strong>   - INSTALL: </strong><br>
      ▶️ python setup.py install or python3 setup.py <br>
     <br>
-    <strong> - WITH PIP:</strong><br>
+  <strong> - WITH PIP:</strong><br>
      ▶️ pip3 install -r requirements.txt  or  pip install -r requirements.txt <br>
     <br> 
-   <strong>  - NOTICE: <strong><br>
+  <strong>  - NOTICE: <strong><br>
      ℹ️ For bypass work need install lastest verion Chrome <br>
-      ➡ wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb <br>
-      ➡ apt-get install ./google-chrome-stable_current_amd64.deb <br>
-      ➡ Thread set 10-50 > work<br>
-   </i>
-  </p>
- </h4>
- <h3> Contact Developer </h3>
+    <br>
+    ➡ wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb <br>
+    ➡ apt-get install ./google-chrome-stable_current_amd64.deb <br>
+    ➡ Thread set 10-50 > work<br>
+    </i>
+   </p>
+  </h4>
+    
+<h3> Contact Developer </h3>
+ 
    <p>
     <i>
      🪙 Buy Me a Coffee BTC:1JG2uZB9MBKhPKFMKJvF5VUBNaXfTa1aWv <br>
@@ -121,5 +124,5 @@
    </p>
   </h2>
  
- </body>
+</body>
  
